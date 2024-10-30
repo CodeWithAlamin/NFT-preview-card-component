@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- [👉 Click here to see Live preview](https://codepapa360.github.io/NFT-preview-card-component/)
-<br>
+- [👉 Click here to see Live preview](https://nft-preview-card-component-alamin.netlify.app)
+  <br>
 
 - [👉 Frontendmentor solution page](https://www.frontendmentor.io/solutions/nft-preview-card-component-solution-8cZMepxWGR)
 
@@ -39,9 +39,9 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
 
 ### Screenshot
 
@@ -49,6 +49,6 @@ Users should be able to:
 
 <p><img align="center" src="design/Desktop-preview.png"/></p>
 
-#### Mobile preview 
+#### Mobile preview
 
 <p><img align="center" width="30%" src="design/Mobile-preview.png"/></p>
